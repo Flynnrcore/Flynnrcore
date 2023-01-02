@@ -7,15 +7,15 @@
 - 🌱 I’m currently learning Javascript, React and studying for a frontend developer at the Hexlet School;
 </p>
 <p>
-- 🦾 My skills: results oriented, responsible, complete assignments, learn quickly and willing to learn new things
+- 🦾 My skills: results oriented, responsible, complete assignments, learn quickly and willing to learn new things;
 <p>
-- 💞️ I’m crazy about technology and devices, music and guitar staff
+- 💞️ I’m crazy about technology and devices, music and guitar staff;
 </p>
 <p>
-- 🎓 I'm graduated from Russian Law Academy with Specialist (MA-equivalent) in jurisprudence;
+- 🎓 I'm graduated from Law Academy with Specialist (MA-equivalent) in jurisprudence;
 </p>
 <p>
-- 📫 How to reach me: flynnrcore@gmail.com
+- 📫 How to reach me: flynnrcore@gmail.com.
  </p>
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
