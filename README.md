@@ -9,7 +9,7 @@
 <p>
 - 🦾 My skills: results oriented, responsible, complete assignments, learn quickly and willing to learn new things;
 <p>
-- 🫀 I’m crazy about technology and devices, music and guitar staff;
+- :guitar: I’m crazy about technology and devices, music and guitar staff;
 </p>
 <p>
 - 🎓 I'm graduated from Law Academy with Specialist (MA-equivalent) in jurisprudence;
