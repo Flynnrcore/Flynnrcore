@@ -4,9 +4,6 @@
 - 👀 I'm looking for a job;
 </p>
 <p>
-- 🌱 I’m currently learning Javascript, React and studying for a frontend developer at the Hexlet School;
-</p>
-<p>
 - 🦾 My skills: results oriented, responsible, complete assignments, learn quickly and willing to learn new things;
 <p>
 - :guitar: I’m crazy about technology and devices, music and guitar staff;
