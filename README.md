@@ -12,7 +12,7 @@
 - 🎓 I'm graduated from Law Academy with Specialist (MA-equivalent) in jurisprudence;
 </p>
 <p>
-- 📫 How to reach me: flynnrcore@gmail.com.
+- 📫 How to reach me: uv@itfrontend.ru.
  </p>
 
 <h3 align="left">:hammer_and_wrench: Technologies and Tools I use:</h3>
