@@ -9,9 +9,6 @@
 - :guitar: I’m crazy about technology and devices, music and guitar staff;
 </p>
 <p>
-- 🎓 I'm graduated from Law Academy with Specialist (MA-equivalent) in jurisprudence;
-</p>
-<p>
 - 📫 How to reach me: uv@itfrontend.ru.
  </p>
 
@@ -35,7 +32,7 @@
 <p align="left">
 <a href="https://codepen.io/flynnrcore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="flynnrcore" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/V-Ulyanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vladislav-ulyanov-dev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20923352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20923352" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/20923352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20923352" height="30" width="40" /></a> -->
 </p>
 
 <!---
