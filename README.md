@@ -1,6 +1,6 @@
 <h2>Hi, I’m Vladislav Ulyanov <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="30" height="30"/></h2>
 
-<h3>💻 Frontend Developer | React Enthusiast</h3>
+<h3>💻 Frontend Developer | React Typescript</h3>
 
 <p>
 🔍 I'm actively looking for new opportunities in frontend development.
@@ -19,7 +19,7 @@
 </p>
 
 <p>
-📫 Reach me at: <a href="mailto:flynnrcore@yandex.ru">uv@itfrontend.ru</a>
+📫 Reach me at: <a href="mailto:flynnrcore@yandex.ru">flynnrcore@yandex.ru</a>
 </p>
 
 ---
